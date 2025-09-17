@@ -1,2 +1,3 @@
 # 19lbates.github.io
-Ts website
+Ts website  
+https://19lbates.github.io
